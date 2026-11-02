@@ -12,3 +12,5 @@ M 1793064822 6
 /start
 M 1793064825 2
 hi
+S 1793601905 45
+[ OK ] Delivered to Telegram (ref 6570914991)
