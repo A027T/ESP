@@ -1,5 +1,3 @@
-S 1793601905 45
-[ OK ] Delivered to Telegram (ref 6570914991)
 M 1793601911 3
 bye
 S 1793601929 45
@@ -58,3 +56,5 @@ S 1793602939 45
 [ OK ] Delivered to Telegram (ref 6571167048)
 M 1793602940 28
 🤔🤔🤔🤔🤔🤔🤔
+S 1793602941 45
+[ OK ] Delivered to Telegram (ref 6571167758)
