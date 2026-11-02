@@ -32,3 +32,5 @@ S 1793602749 59
 [WARN] Telegram sent a non-text message (sticker) - ignored
 M 1793602768 4
 🫪
+M 1793602788 16
+😭😭😭😭
