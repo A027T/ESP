@@ -28,3 +28,5 @@ S 1793601987 45
 [ OK ] Delivered to Telegram (ref 6570935092)
 S 1793602720 45
 [ OK ] Delivered to Telegram (ref 6571113002)
+S 1793602749 59
+[WARN] Telegram sent a non-text message (sticker) - ignored
