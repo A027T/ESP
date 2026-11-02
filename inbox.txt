@@ -1,7 +1,3 @@
-M 1792909383 6
-/start
-M 1792909385 2
-hi
 M 1793064788 6
 /start
 M 1793064792 2
@@ -58,3 +54,7 @@ S 1793602924 45
 [ OK ] Delivered to Telegram (ref 6571164303)
 S 1793602928 45
 [ OK ] Delivered to Telegram (ref 6571165024)
+S 1793602933 45
+[ OK ] Delivered to Telegram (ref 6571165774)
+S 1793602934 45
+[ OK ] Delivered to Telegram (ref 6571166441)
