@@ -1,5 +1,3 @@
-S 1793601929 45
-[ OK ] Delivered to Telegram (ref 6570921044)
 S 1793601953 45
 [ OK ] Delivered to Telegram (ref 6570926953)
 S 1793601981 45
@@ -58,3 +56,13 @@ S 1793602941 45
 [ OK ] Delivered to Telegram (ref 6571167758)
 M 1793602943 24
 🤔🤔🤔🤔🤔🤔
+M 1793603071 406
+Device Name DESKTOP-FDP3RPT
+Processor Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz   2.50 GHz
+Installed RAM 4.00 GB
+Storage 238 GB SSD GOLD DRIVE 256G
+Graphics Card NVIDIA GeForce 9400 GT  (1000 MB)
+Device ID 7E0284A2-BC2D-41E3-8C7B-7A89451772E6
+Product ID 00355-70005-64767-AAOEM
+System Type 64-bit operating system, x64-based processor
+Pen and touch No pen or touch input is available for this display
