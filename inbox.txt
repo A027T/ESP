@@ -1,5 +1,3 @@
-S 1793601953 45
-[ OK ] Delivered to Telegram (ref 6570926953)
 S 1793601981 45
 [ OK ] Delivered to Telegram (ref 6570933766)
 S 1793601986 45
@@ -66,3 +64,5 @@ Device ID 7E0284A2-BC2D-41E3-8C7B-7A89451772E6
 Product ID 00355-70005-64767-AAOEM
 System Type 64-bit operating system, x64-based processor
 Pen and touch No pen or touch input is available for this display
+M 1793710744 6
+/start
