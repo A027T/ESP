@@ -1,5 +1,3 @@
-S 1793601981 45
-[ OK ] Delivered to Telegram (ref 6570933766)
 S 1793601986 45
 [ OK ] Delivered to Telegram (ref 6570934460)
 S 1793601987 45
@@ -66,3 +64,5 @@ System Type 64-bit operating system, x64-based processor
 Pen and touch No pen or touch input is available for this display
 M 1793710744 6
 /start
+M 1793713909 19
+لامپ خاموش
