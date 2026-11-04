@@ -1,5 +1,3 @@
-S 1793602720 45
-[ OK ] Delivered to Telegram (ref 6571113002)
 S 1793602749 59
 [WARN] Telegram sent a non-text message (sticker) - ignored
 M 1793602768 4
@@ -66,3 +64,5 @@ M 1793833927 11
 🔧 برد
 M 1793833938 11
 📱 پنل
+M 1793833941 24
+💡 دستگاه‌ها
